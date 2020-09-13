@@ -4,7 +4,7 @@ This repository stores the programs I wrote while providing consulting services 
 ## My job in this project
 * We helped our client, Shui On Land, to find high-net-worth individuals in Shanghai, making it easier for our client to grasp their needs.
 * My job is to help my boss locate which industries have the most high-net-worth individuals today and in the future,
-* I analyze the rise and fall of various industries from the perspective of online public opinion, listing conditions, and senior executives' annual salary data.  
+* I analyzed the rise and fall of various industries from the perspective of online public opinion, listing conditions, and senior executives' annual salary data.  
 
 ## Public Opinion
 * **NewRankAPI-Douyin.py**: To use NewRank API to download and save information -- such as likes, comments, reads, pulish time, text -- about aritles in WeChat official account.  
