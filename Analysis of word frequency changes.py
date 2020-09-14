@@ -230,28 +230,6 @@ for industry in range(0,5,1):
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # 保存ngram结果
 os.chdir(r'D:\ngram')
 name=['总的','长三角','5G','AI','生物医药']
