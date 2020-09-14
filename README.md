@@ -16,6 +16,8 @@ This repository stores the programs I wrote while providing consulting services 
 
 ## Listing Conditions
 * [Listing.py](https://github.com/l1mc/Consulting-Service-for-Shui-On-Land/blob/master/Listing.py): To analyze the number of new listed companies in different industries each year. Our assumptions is that the industry that has gradually increased the number of annual listings is the sunrise industry. There are more high-net-worth individuals in these industries.
+* The outcome of the analysis of listing conditions is several figures. Below is a sample.
+<img src = 'https://ftp.bmp.ovh/imgs/2020/09/dcfd91dcbabba59d.png' width="50%">
 
 ## The annual salary of directors and senior management
 * They are high-net-worth individuals and potential customers of Shui On.
